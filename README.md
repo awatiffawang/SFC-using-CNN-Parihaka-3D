@@ -6,5 +6,7 @@ In this project, the author aims to predict seismic facies in a deep learning mu
     
     
     
-    ![fig_1_bw](https://user-images.githubusercontent.com/71542986/184466764-77b96965-8303-4811-bac1-0faec3294228.png)
-    ![fig_1_rbg](https://user-images.githubusercontent.com/71542986/184466766-0c9d57ec-8149-4951-a019-9318ffe2fd4b.png)
+![fig_1_bw](https://user-images.githubusercontent.com/71542986/184466764-77b96965-8303-4811-bac1-0faec3294228.png)
+Input seismic   
+![fig_1_rbg](https://user-images.githubusercontent.com/71542986/184466766-0c9d57ec-8149-4951-a019-9318ffe2fd4b.png)
+Label
