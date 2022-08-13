@@ -18,12 +18,15 @@ Good luck and have fun exploring!
 -----------------------------------------------------------------------------------------------
  
 Data generation:
+
 ![4](https://user-images.githubusercontent.com/71542986/184498878-9b21b99e-4e05-4a7e-9ad9-41eec71a7695.jpg)
 
 Model U-net:
+
 ![3](https://user-images.githubusercontent.com/71542986/184498883-56416ef8-9507-4d1c-843c-f3b9f66f8c33.jpg)
 
 Model fitting:
+
 ![2](https://user-images.githubusercontent.com/71542986/184498887-d363b835-0a2b-4bcd-bfef-c32c68e58f83.jpg)
 
 Output (1: input slice | 2: label | 3: prediction):
