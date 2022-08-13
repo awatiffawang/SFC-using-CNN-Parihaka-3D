@@ -18,13 +18,13 @@ Good luck and have fun exploring!
 Data generation:
 ![4](https://user-images.githubusercontent.com/71542986/184467564-710df525-b929-4deb-aadd-3eeee6f9d123.jpg)
 
-U-net:
+Model U-net:
 ![3](https://user-images.githubusercontent.com/71542986/184467686-992623a2-b155-4fa3-80d7-fa3d6c9dc42d.jpg)
 
 Model fitting:
 ![2](https://user-images.githubusercontent.com/71542986/184467601-b782d23a-6fc0-4d0f-9b2b-0893cad4b1c5.jpg)
 
-Output (1: input slice | 2: label | 3:prediction):
+Output (1: input slice | 2: label | 3: prediction):
 ![5](https://user-images.githubusercontent.com/71542986/184467519-1659d1c0-e0bc-483a-b59f-2b72efa41ae8.jpg)
 
 Prediction of upper epochs:
