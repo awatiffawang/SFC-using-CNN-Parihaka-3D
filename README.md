@@ -36,4 +36,3 @@ Output (1: input slice | 2: label | 3: prediction):
 
 Prediction of upper epochs:
 ![1](https://user-images.githubusercontent.com/71542986/184467537-1ab0ba94-bd09-4596-ab83-374c66f4e4e8.jpg)
-
