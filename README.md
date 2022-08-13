@@ -15,9 +15,25 @@ Good luck and have fun exploring!
     
 -----------------------------------------------------------------------------------------------
  
- Seismic (input):
-![fig_1_bw](https://user-images.githubusercontent.com/71542986/184466764-77b96965-8303-4811-bac1-0faec3294228.png)
+Data generation:
+![4](https://user-images.githubusercontent.com/71542986/184467564-710df525-b929-4deb-aadd-3eeee6f9d123.jpg)
 
-Interpreted facies (6 classes label):   
-![fig_1_rbg](https://user-images.githubusercontent.com/71542986/184466766-0c9d57ec-8149-4951-a019-9318ffe2fd4b.png)
+-----------------------------------------------------------------------------------------------
 
+U-net:
+![3](https://user-images.githubusercontent.com/71542986/184467581-f255ffc6-85a3-4745-90ee-564153d47e88.jpg)
+
+-----------------------------------------------------------------------------------------------
+
+Model fitting:
+![2](https://user-images.githubusercontent.com/71542986/184467601-b782d23a-6fc0-4d0f-9b2b-0893cad4b1c5.jpg)
+
+-----------------------------------------------------------------------------------------------
+
+Output (1: input slice |2: label |3:prediction):
+![5](https://user-images.githubusercontent.com/71542986/184467519-1659d1c0-e0bc-483a-b59f-2b72efa41ae8.jpg)
+
+-----------------------------------------------------------------------------------------------
+
+Prediction of upper epochs:
+![1](https://user-images.githubusercontent.com/71542986/184467537-1ab0ba94-bd09-4596-ab83-374c66f4e4e8.jpg)
