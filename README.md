@@ -11,7 +11,7 @@ In this project, we managed to get a good fitting with above 98% validation accu
 - Uses original U-net with addition of normalization layers (credit to @aladdinpersson).
 - Cross-entropy loss and hyperparameters of 1e3 learning rate, 10 epochs, and 16 batches.
 
-As a remark, this experiment runs fully on Google Collab and uses Wandb package. We use a total of 25 RAM (retrieved for free using Hackanons), only uses CPU (no GPU usage) and runs for a total of <5 hours.
+This experiment runs fully on Google Collab and uses Wandb package (requires account). We use a total of 25 RAM (retrieved for free using Hackanons), only uses Google CPU (no GPU usage) and runs for a total of <5 hours.
 
 Good luck and have fun exploring!
     
