@@ -1,0 +1,5 @@
+- File is saved as ipynb, but you can save each code section as python module and run fully on main.py
+- Cuda (GPU) related code is incomplete. The same goes to "load_checkpoint" (the loaders will be reshuffled which will mess with seen and unseen data by the partly trained model). I do not finish those parts because running the experiment from start to finish does the job for me. If you get both parts figured out, please contribute back to this repository. I really appreciate it.
+- To run the file in Google Collab, please be reminded to save it in a stand-alone file as it can get messy. Also, be reminded to change the directory name in the first code section (the part where we mount google drive). Other than that, all files will be created automatically.
+- Here is the link for 25 RAM Google Collab (Google Hackanons): https://colab.research.google.com/drive/1GqZu6zmCy2vMNMZqO78DDuHvwv_9vJcp?usp=sharing
+- If you feel like getting my help, I prefer you connect with me via Upwork (Nur Awatiff Awang)
