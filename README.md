@@ -13,7 +13,7 @@ In this project, we managed to get a good fitting with above 98% validation accu
 
 This experiment runs fully on Google Collab and uses Wandb package (requires account). We use a total of 25 RAM (retrieved for free using Hackanons), only uses Google CPU (no GPU usage) and runs for a total of <5 hours.
 
-Link to original challange: https://www.aicrowd.com/challenges/seismic-facies-identification-challenge
+Link to the original challange: https://www.aicrowd.com/challenges/seismic-facies-identification-challenge
 
 Good luck and have fun exploring!
     
