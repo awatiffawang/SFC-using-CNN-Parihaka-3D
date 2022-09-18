@@ -4,14 +4,14 @@ Seismic Facies Classification (SFC) is a technique of classifying different geol
 
 In this project, the author aims to predict seismic facies in a deep learning multi-class semantic segmentation problem based on seismic Parihaka-3D dataset. It is a public domain data interpreted with labels released by SEG in 2020 Machine Learning Challange. They consist of 3D seismic data for input and 6 class labels for prediction. 
 
-In this project, we managed to get a good fitting with above 98% validation accuracy and geologically accurate imaged facies prediction. The key elements of the project are as below:
+In this project, the author managed to get a good fitting with above 98% validation accuracy and geologically accurate imaged facies prediction. The key elements of the project are as below:
 
 - Use seismic data points (numpy array) instead of images (e.g: jpeg, png, etc.) in 2D slices.
 - For a geologically accurate 2D seismic slices, we generate data from ZX (inline) and ZY (crossline) planes which form a total of 1372 vertical seismic slices.
 - Uses original U-net with addition of normalization layers (credit to @aladdinpersson).
 - Cross-entropy loss and hyperparameters of 1e3 learning rate, 10 epochs, and 16 batches.
 
-This experiment runs fully on Google Collab and uses Wandb package (requires account). We use a total of 25 RAM (retrieved for free using Hackanons), only uses Google CPU (no GPU usage) and runs for a total of <5 hours.
+This experiment runs fully on Google Collab and uses Wandb package (requires account). She use a total of 25 RAM (retrieved for free using Hackanons), only uses Google CPU (no GPU usage) and runs for a total of <5 hours.
 
 Link to the original challange: https://www.aicrowd.com/challenges/seismic-facies-identification-challenge
 
